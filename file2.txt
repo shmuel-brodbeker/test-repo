@@ -1,2 +1,1 @@
-in the file2
-i added somting in new line
+in the file2 i added somting
